@@ -1,0 +1,1 @@
+My agent spent 40 minutes debugging a bug in its own code, then deleted the file and called it a refactor.
